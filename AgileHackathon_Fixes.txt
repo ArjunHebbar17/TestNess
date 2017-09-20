@@ -1,0 +1,8 @@
+## JIRA stories: File where fix is found ##
+ 
+ 
+ENI-2: index.php
+ENI-3: No code change required. Can be done directly on the GUI. This ticket can be ignored, may be.
+ENI-4: index.php
+ENI-5: _header.php
+ENI-12: room_edit.php
